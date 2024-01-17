@@ -10,7 +10,7 @@ spec:
     targetRevision: HEAD
     path: guestbook
     plugin:
-      name: simple-helm-cmp
+      name: axon-cmp
       env:
         - name: FOO
           value: bar
